@@ -38,12 +38,12 @@
 - Erlang
 - F#
 - Groovy
-- Haskell
+- Haskell (Algo 2 QuickSort)
 - Julia
 - Lisp
-- Lua
+- Lua (Algo 1 DFS)
 - Kotlin
-- ML
+- ML (Algo 3 Character sequence with replacement)
 - Mojo
 - Nim
 - Objective-C
@@ -54,6 +54,6 @@
 - Ruby
 - Rust
 - Scala
-- Scheme
+- Scheme (Algo 4 Matrix 2-D)
 - Swift
 - Zig- 
