@@ -29,3 +29,31 @@
 2) INI -> JSON
 3) CustomTXT -> JSON (файл определённого вида, который парсится и переводится в json, например, список игроков и их характеристик)
 4) JSON -> CSV
+
+# Список языков программирования
+- Ada
+- Clojure
+- D
+- Elixir
+- Erlang
+- F#
+- Groovy
+- Haskell
+- Julia
+- Lisp
+- Lua
+- Kotlin
+- ML
+- Mojo
+- Nim
+- Objective-C
+- OCaml
+- ODIN
+- Perl
+- Prolog
+- Ruby
+- Rust
+- Scala
+- Scheme
+- Swift
+- Zig- 
