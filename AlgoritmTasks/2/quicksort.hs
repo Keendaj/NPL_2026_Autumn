@@ -16,11 +16,11 @@ main = do
   putStrLn $ "После: " ++ show (quicksort ints)
 
   putStrLn "\nСтроки"
-  let strs = ["banana", "apple", "cherry", "date"]
+  let strs = ["b", "a", "c", "d"]
   putStrLn $ "До:    " ++ show strs
   putStrLn $ "После: " ++ show (quicksort strs)
 
   putStrLn "\nГраничные случаи"
   putStrLn $ "Пустой список: " ++ show (quicksort ([] :: [Int]))
-  putStrLn $ "Один элемент:  " ++ show (quicksort [42 :: Int])
+  putStrLn $ "Один элемент:  " ++ show (quicksort [0 :: Int])
   putStrLn $ "Дубликаты:     " ++ show (quicksort [3, 1, 3, 2, 1, 3 :: Int])

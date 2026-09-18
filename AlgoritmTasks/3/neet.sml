@@ -3,11 +3,10 @@ struct
 
   fun charIndex c = Char.ord c - Char.ord #"A"
 
-  (* solve : string -> int -> int *)
   fun solve (s : string) (k : int) : int =
     let
       val n = String.size s
-      val counts = Array.array (26, 0)   (* частоты символов в текущем окне *)
+      val counts = Array.array (26, 0)
 
       fun loop (left : int, right : int, maxCount : int, best : int) : int =
         if right = n then

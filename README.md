@@ -7,10 +7,10 @@
 4) Реализация параллельного умножения матриц
 
 ## Алгоритмическая задача 
-1) Поиск в глубину через рекурсию
-2) QuickSort через рекурсию
-3) https://neetcode.io/problems/longest-repeating-substring-with-replacement/question?list=neetcode150
-4) https://neetcode.io/problems/search-2d-matrix/question?list=neetcode150
+1) Поиск в глубину через рекурсию (Lua)
+2) QuickSort через рекурсию (Haskell)
+3) https://neetcode.io/problems/longest-repeating-substring-with-replacement/question?list=neetcode150 (ML)
+4) https://neetcode.io/problems/search-2d-matrix/question?list=neetcode150 (Scheme)
 
 ## ввод/вывод в консоль/файл
 1) Консольная программа с тестом / "приключением"
