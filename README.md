@@ -13,10 +13,12 @@
 4) https://neetcode.io/problems/search-2d-matrix/question?list=neetcode150 (Scheme)
 
 ## ввод/вывод в консоль/файл
-1) Консольная программа с тестом / "приключением"
-2) Реализация команды grep
-3) Интерактивный консольный дневник с поиском по дате
-4) Фильтрация логов по каким-то ключевым словам (например в логе работы тестирования ищем все запуски тестов)
+1) Консольная программа с тестом / "приключением" (Prolog)
+2) Реализация команды grep (Perl)
+3) Интерактивный консольный дневник с поиском по дате (Lisp)
+4) Фильтрация логов по каким-то ключевым словам, например в логе работы тестирования ищем все запуски тестов (ODIN)
+
+Код и инструкции по запуску: [IOTasks](IOTasks/README.md)
 
 ## клиент-серверное взаимодействие
 1) ЭХО-сервер, который в зависимости от настройки/клиента по-разному обрабатывает сообщения и отправляет обратно
@@ -40,7 +42,7 @@
 - Groovy
 - Haskell (Algo 2 QuickSort)
 - Julia
-- Lisp
+- Lisp (IO 3 Diary)
 - Lua (Algo 1 DFS)
 - Kotlin
 - ML (Algo 3 Character sequence with replacement)
@@ -48,12 +50,12 @@
 - Nim
 - Objective-C
 - OCaml
-- ODIN
-- Perl
-- Prolog
+- ODIN (IO 4 Log filtration)
+- Perl (IO 2 grep)
+- Prolog (IO 1 Text Quest)
 - Ruby
 - Rust
 - Scala
 - Scheme (Algo 4 Matrix 2-D)
 - Swift
-- Zig- 
+- Zig
