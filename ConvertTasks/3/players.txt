@@ -1,0 +1,52 @@
+# Реестр игроков гильдии, выгрузка с игрового сервера
+@version 2
+@updated 2026-09-19
+@server Dungeon Keeper
+@season 4
+
+player Aria Nightwind
+  class: Следопыт
+  level: 27
+  hp: 812
+  mana: 240
+  stats: str=14, agi=22, int=11, vit=16
+  skills: Точный выстрел, Скрытность, Следопыт
+  guild: Серебряный Лист
+  gold: 18450.75
+  active: yes
+  note: "Снайпер, бьёт с 60 метров"
+
+player Borun Ironfist
+  class: Воин
+  level: 31
+  hp: 1460
+  mana: 60
+  stats: str=26, agi=9, int=7, vit=24
+  skills: Щит клана, Провокация, Раскол брони
+  guild: Кузни Севера
+  gold: 9320
+  active: yes
+
+player Мила Тенева
+  class: Маг
+  level: 24
+  hp: 540
+  mana: 980
+  stats: str=6, agi=12, int=28, vit=9
+  skills: Ледяная стрела, Барьер
+  guild: -
+  gold: 25110.4
+  active: no
+
+npc Старый Кузнец
+  role: торговец
+  location: Северные Врата
+  wares: молот, щит, наплечники
+  discount: 0.15
+  active: yes
+
+npc Хранитель Врат
+  role: квестодатель
+  location: Подземелье
+  quests: Ключ от склепа, Пропавший обоз
+  active: no

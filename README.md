@@ -18,8 +18,6 @@
 3) Интерактивный консольный дневник с поиском по дате (Lisp)
 4) Фильтрация логов по каким-то ключевым словам, например в логе работы тестирования ищем все запуски тестов (ODIN)
 
-Код и инструкции по запуску: [IOTasks](IOTasks/README.md)
-
 ## клиент-серверное взаимодействие
 1) ЭХО-сервер, который в зависимости от настройки/клиента по-разному обрабатывает сообщения и отправляет обратно
 2) Игра про подземелье с множеством игроков.
@@ -27,18 +25,18 @@
 4) Калькулятор накоплений удалённый
 
 ## конвертация данных из одного формата в другой
-1) CSV -> HTML
-2) INI -> JSON
-3) CustomTXT -> JSON (файл определённого вида, который парсится и переводится в json, например, список игроков и их характеристик)
-4) JSON -> CSV
+1) CSV -> HTML (Ruby)
+2) INI -> JSON (Nim)
+3) CustomTXT -> JSON (файл определённого вида, который парсится и переводится в json, например, список игроков и их характеристик) (F#)
+4) JSON -> CSV (D)
 
 # Список языков программирования
 - Ada
 - Clojure
-- D
+- D (Convert 4 JSON to CSV)
 - Elixir
 - Erlang
-- F#
+- F# (Convert 3 CustomTXT to JSON)
 - Groovy
 - Haskell (Algo 2 QuickSort)
 - Julia
@@ -47,13 +45,13 @@
 - Kotlin
 - ML (Algo 3 Character sequence with replacement)
 - Mojo
-- Nim
+- Nim (Convert 2 INI to JSON)
 - Objective-C
 - OCaml
 - ODIN (IO 4 Log filtration)
 - Perl (IO 2 grep)
 - Prolog (IO 1 Text Quest)
-- Ruby
+- Ruby (Convert 1 CSV to HTML)
 - Rust
 - Scala
 - Scheme (Algo 4 Matrix 2-D)

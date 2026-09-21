@@ -1,0 +1,62 @@
+[
+  {
+    "id": 101,
+    "name": "Aria Nightwind",
+    "class": "Следопыт",
+    "level": 27,
+    "gold": 18450.75,
+    "active": true,
+    "guild": { "name": "Серебряный Лист", "rank": "офицер" },
+    "stats": { "str": 14, "agi": 22, "int": 11 },
+    "skills": ["Точный выстрел", "Скрытность", "Следопыт"],
+    "note": "Снайпер, бьёт с 60 метров"
+  },
+  {
+    "id": 102,
+    "name": "Borun Ironfist",
+    "class": "Воин",
+    "level": 31,
+    "gold": 9320,
+    "active": true,
+    "guild": { "name": "Кузни Севера", "rank": "глава" },
+    "stats": { "str": 26, "agi": 9, "int": 7 },
+    "skills": ["Щит клана", "Провокация"],
+    "note": "Говорит \"за клан!\" перед каждым боем"
+  },
+  {
+    "id": 103,
+    "name": "Мила Тенева",
+    "class": "Маг",
+    "level": 24,
+    "gold": 25110.4,
+    "active": false,
+    "guild": null,
+    "stats": { "str": 6, "agi": 12, "int": 28 },
+    "skills": ["Ледяная стрела", "Барьер"],
+    "note": "Ищет гильдию"
+  },
+  {
+    "id": 104,
+    "name": "Kai Ashborne",
+    "class": "Разбойник",
+    "level": 29,
+    "gold": 14005.5,
+    "active": true,
+    "guild": { "name": "Серебряный Лист", "rank": "боец" },
+    "stats": { "str": 17, "agi": 25, "int": 13 },
+    "skills": ["Яды", "Ловушки", "Удар в спину"],
+    "note": "Специализация: яды, ловушки"
+  },
+  {
+    "id": 105,
+    "name": "Sorrel Vane",
+    "class": "Жрец",
+    "level": 22,
+    "gold": 7760,
+    "active": false,
+    "guild": { "name": "Круг Рассвета", "rank": "послушник" },
+    "stats": { "str": 9, "agi": 11, "int": 24 },
+    "skills": [],
+    "note": null
+  }
+]
