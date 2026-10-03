@@ -1,10 +1,10 @@
 # NPL_2026_Autumn
 # Список задач:
 ## Параллельность:
-1) Реализация паттерна Worker Pool (либо Manager-Worker +- одно и то же)
-2) Релизация паттерна Producer-Consumer 
-3) Реализация параллельной сортировки на основе паттерна разделяй и властвуй
-4) Реализация параллельного умножения матриц
+1) Реализация паттерна Worker Pool (либо Manager-Worker +- одно и то же) (Clojure)
+2) Релизация паттерна Producer-Consumer (Rust)
+3) Реализация параллельной сортировки на основе паттерна разделяй и властвуй (Ada)
+4) Реализация параллельного умножения матриц (Mojo)
 
 ## Алгоритмическая задача 
 1) Поиск в глубину через рекурсию (Lua)
@@ -31,8 +31,8 @@
 4) JSON -> CSV (D)
 
 # Список языков программирования
-- Ada
-- Clojure
+- Ada (Parallel 3 Merge sort)
+- Clojure (Parallel 1 Worker Pool)
 - D (Convert 4 JSON to CSV)
 - Elixir (ClientServer 3 Quiz)
 - Erlang (ClientServer 2 Dungeon)
@@ -44,7 +44,7 @@
 - Lua (Algo 1 DFS)
 - Kotlin
 - ML (Algo 3 Character sequence with replacement)
-- Mojo
+- Mojo (Parallel 4 Matrix multiplication)
 - Nim (Convert 2 INI to JSON)
 - Objective-C
 - OCaml (ClientServer 4 Savings)
@@ -52,7 +52,7 @@
 - Perl (IO 2 grep)
 - Prolog (IO 1 Text Quest)
 - Ruby (Convert 1 CSV to HTML)
-- Rust
+- Rust (Parallel 2 Producer-Consumer)
 - Scala
 - Scheme (Algo 4 Matrix 2-D)
 - Swift
